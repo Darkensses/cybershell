@@ -1,6 +1,6 @@
 ### Cybershell
 
-Cybershell is a custom theme for oh-my-posh that tries to provoke a very pleasent and ✨ A E S T H E T I C ✨ feeling to every powershell user whenever use the terminal.
+Cybershell is a custom theme for oh-my-posh that tries to provoke a very pleasant and ✨ A E S T H E T I C ✨ feeling to every powershell user whenever use the terminal.
 ![cybershell screenshot](images/cybershell.png)
 <br/>
 It also provides nice info for:
